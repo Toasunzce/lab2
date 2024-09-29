@@ -1,0 +1,1 @@
+g++ -fsanitize=undefined Task_8.cpp -o UBSan

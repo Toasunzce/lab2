@@ -1,0 +1,1 @@
+g++ -fsanitize=address -g Task_8.cpp -o LSan
